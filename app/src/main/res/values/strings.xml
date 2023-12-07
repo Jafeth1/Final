@@ -1,0 +1,10 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_images">Images</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="toolbar">Space Viewer</string>
+    <string name="high_quality">High Quality</string>
+    <string name="low_quality">Low Quality</string>
+    <string name="app_name">MySpaceViewerApp</string>
+</resources>
